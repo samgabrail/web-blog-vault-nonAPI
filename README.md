@@ -5,6 +5,14 @@ This is a simple web blog to demo use cases with Hashicorp Vault. The app commun
 
 It uses python, flask, bootstrap, mongodb, consul, and vault.
 
+## Important Resources:
+
+[Secure Introduction of Vault Clients](https://learn.hashicorp.com/vault/identity-access-management/iam-secure-intro)
+[Direct Application Integration](https://learn.hashicorp.com/vault/developer/sm-app-integration)
+[Vault Agent with AWS](https://learn.hashicorp.com/vault/identity-access-management/vault-agent-aws)
+[Vault Agent Templates](https://learn.hashicorp.com/vault/identity-access-management/agent-templates)
+[Vault Agent with Kubernetes](https://learn.hashicorp.com/vault/identity-access-management/vault-agent-k8s)
+
 # [MongoDB Setup](https://docs.mongodb.com/manual/tutorial/enable-authentication/)
 
 ## Create admin user creds
